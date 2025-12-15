@@ -47,6 +47,44 @@
     a:hover {
       text-decoration: underline;
     }
+
+    .navbar {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background: rgba(255, 255, 255, 0.92);
+      border-bottom: 1px solid #ddd;
+      z-index: 1000;
+    }
+
+    .navbar .nav-container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 0.6em 1em;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .navbar a {
+      margin-left: 1em;
+      font-size: 0.95em;
+      color: #003366;
+      text-decoration: none;
+    }
+
+    .navbar a:first-child {
+      margin-left: 0;
+    }
+
+    .navbar a:hover {
+      text-decoration: underline;
+    }
+
+    /* 给正文留出导航栏空间 */
+    .hero {
+      margin-top: 50px;
+    }
   </style>
 </head>
 <body>
