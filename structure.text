@@ -1,0 +1,11 @@
+bhz-moduli-workshop/
+├── index.md
+├── speakers.md
+├── program.md
+├── registration.md
+├── _layouts/
+│   └── default.html
+├── assets/
+│   └── images/
+│       └── cover.png
+└── _config.yml
