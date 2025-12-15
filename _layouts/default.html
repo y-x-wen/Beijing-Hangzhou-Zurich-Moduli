@@ -15,7 +15,8 @@
       background-image: url('/bhz-moduli-workshop/assets/images/cover.png');
       background-size: cover;
       background-position: center;
-      height: 85vh;
+      height: 70vh;
+      min-height: 420px;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -23,6 +24,21 @@
       color: white;
       text-align: center;
     }
+
+    @media (max-width: 768px) {
+      .hero {
+        height: 55vh;
+        min-height: 360px;
+        padding: 1em;
+      }
+      .hero h1 {
+        font-size: 2em;
+      }
+      .hero p {
+        font-size: 1em;
+      }  
+    }
+    
     .hero h1 {
       font-size: 3em;
       margin-bottom: 0.3em;
