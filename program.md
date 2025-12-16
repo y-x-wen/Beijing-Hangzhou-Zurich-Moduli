@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Program
+hero: inner
 ---
 
 ## Program Overview
