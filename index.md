@@ -71,7 +71,18 @@ Participants may attend either part or both parts of the workshop.
 
 ## Registration
 
-To be announced.
+Participants are kindly requested to register in advance.
+
+Registration is **free of charge**, but required for organizational purposes.
+
+- **International participants**:  
+  Google Form (link to be provided)
+
+- **Participants based in China**:  
+  Wenjuanxing (问卷星) (link to be provided)
+
+The registration deadline will be announced. Participants who require an invitation letter for visa purposes
+may contact the organizers after registration.
 
 
 ## Organizers
