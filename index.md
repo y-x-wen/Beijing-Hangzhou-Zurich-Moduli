@@ -77,8 +77,3 @@ To be announced.
 ## Practical Information
 
 To be announced.
-
-
-## Funding & Acknowledgements
-
-To be announced.
