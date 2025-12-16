@@ -76,7 +76,7 @@ Participants are kindly requested to register in advance.
 Registration is **free of charge**, but required for organizational purposes.
 
 - **International participants**:  
-  Google Form (link to be provided)
+  [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScSLFP3e0G4VRtecOJ_uJ0-yYmDJGXbOFmZFNtH5qb5UHrRqA/viewform?usp=header)
 
 - **Participants based in China**:  
   Wenjuanxing (问卷星) (link to be provided)
