@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Speakers
+hero: inner
 ---
 
 ## Speakers
