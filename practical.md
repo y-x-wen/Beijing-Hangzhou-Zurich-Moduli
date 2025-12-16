@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Practical Information
+hero: inner
 ---
 
 ## Visa Information
