@@ -13,10 +13,7 @@ algebraic geometry and mathematical physics.
 
 ## Topics
 
-- Moduli spaces in algebraic geometry
-- Higgs bundles and Hitchin systems
-- Mirror symmetry and Langlands duality
-- Quantum K-theory and enumerative geometry
+- To be added.
 
 ---
 
