@@ -15,7 +15,6 @@ algebraic geometry and mathematical physics.
 
 - To be added.
 
----
 
 ## Speakers
 
@@ -39,7 +38,6 @@ The following speakers are invited to the workshop
 - Junliang Shen  
 - Yang Zhou  
 
----
 
 ## Workshop Format and Locations
 
@@ -53,7 +51,6 @@ The workshop will be held in **two consecutive parts**, hosted at two different 
 
 Participants may attend either part or both parts of the workshop.
 
----
 
 ### Beijing Program
 
@@ -63,7 +60,6 @@ Participants may attend either part or both parts of the workshop.
 |      | To be announced |
 |      | To be announced |
 
----
 
 ### Hangzhou Program
 
@@ -72,25 +68,21 @@ Participants may attend either part or both parts of the workshop.
 |      | To be announced |
 |      | To be announced |
 
----
 
 ## Registration
 
 To be announced.
 
----
 
 ## Organizers
 
 To be announced.
 
----
 
 ## Practical Information
 
 To be announced.
 
----
 
 ## Funding & Acknowledgements
 
