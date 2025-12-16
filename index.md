@@ -9,12 +9,6 @@ The Beijing–Hangzhou–Zurich Moduli Workshop is a focused international works
 bringing together researchers working on moduli spaces and related topics in
 algebraic geometry and mathematical physics.
 
----
-
-## Topics
-
-- To be added.
-
 
 ## Speakers
 
