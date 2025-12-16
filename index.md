@@ -41,9 +41,36 @@ The following speakers are invited to the workshop
 
 ---
 
-## Program
+## Workshop Format and Locations
 
-To be announced.
+The workshop will be held in **two consecutive parts**, hosted at two different locations in China:
+
+- **Beijing (May 13–15, 2026)**  
+  Peking University, Beijing
+
+- **Hangzhou (May 18–19, 2026)**  
+  Zhejiang University, Hangzhou
+
+Participants may attend either part or both parts of the workshop.
+
+---
+
+### Beijing Program
+
+| Time | Activity |
+|------|----------|
+|      | To be announced |
+|      | To be announced |
+|      | To be announced |
+
+---
+
+### Hangzhou Program
+
+| Time | Activity |
+|------|----------|
+|      | To be announced |
+|      | To be announced |
 
 ---
 
