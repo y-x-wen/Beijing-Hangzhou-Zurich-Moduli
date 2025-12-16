@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Organizers & Scientific Committee
+hero: inner
 ---
 
 ## Organizers
