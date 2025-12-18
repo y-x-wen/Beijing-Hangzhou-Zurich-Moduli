@@ -10,6 +10,13 @@ bringing together researchers working on moduli spaces and related topics in
 algebraic geometry and mathematical physics.
 
 
+## Poster
+
+The workshop poster is available here:
+
+- [Workshop Poster (PDF)](assets/poster/BHZ-Moduli-Workshop-Poster.pdf)
+
+
 ## Speakers
 
 The following speakers are invited to the workshop  
