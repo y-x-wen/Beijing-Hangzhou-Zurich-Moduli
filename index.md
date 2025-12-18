@@ -19,9 +19,6 @@ The workshop poster is available here:
 
 ## Speakers
 
-The following speakers are invited to the workshop  
-(*TBC indicates to be confirmed*):
-
 - Aaron Pixton (Ann Arbor)
 - Younghan Bae (Ann Arbor)
 - Samir Canning (Zurich)
@@ -38,6 +35,8 @@ The following speakers are invited to the workshop
 - Dragos Oprea (San Diego) *(TBC)*
 - Junliang Shen (New Haven)
 - Yang Zhou (Shanghai)
+  
+(*TBC indicates to be confirmed*)
 
 
 ## Workshop Format and Locations
