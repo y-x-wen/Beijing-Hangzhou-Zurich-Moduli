@@ -16,13 +16,6 @@ The workshop poster is available here:
 
 - [Workshop Poster (PDF)](assets/poster/BHZ-Moduli-Workshop-Poster.pdf)
 
-<iframe
-  src="assets/poster/BHZ-Moduli-Workshop-Poster.pdf"
-  width="100%"
-  height="800px"
-  style="border: none;">
-</iframe>
-
 
 ## Speakers
 
