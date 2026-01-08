@@ -46,7 +46,7 @@ The workshop will be held in **two consecutive parts**, hosted at two different 
 - **Beijing (May 13–16, 2026)**  
   Peking University, Beijing
 
-- **Hangzhou (May 17–19, 2026)**  
+- **Hangzhou (May 18–19, 2026)**  
   Zhejiang University, Hangzhou
 
 Participants may attend either part or both parts of the workshop.
