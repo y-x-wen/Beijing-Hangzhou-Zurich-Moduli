@@ -31,7 +31,6 @@ The workshop poster is available here:
 - Zhiyu Liu (Hangzhou)
 - Samouil Molcho (Rome)
 - Denis Nesterov (Zurich)
-- Georg Oberdieck (Heidelberg) *(TBC)*
 - Dragos Oprea (San Diego) *(TBC)*
 - Junliang Shen (New Haven)
 - Yang Zhou (Shanghai)
