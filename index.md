@@ -23,7 +23,7 @@ The workshop poster is available here:
 - Younghan Bae (Ann Arbor)
 - Samir Canning (Zurich)
 - Gavril Farkas (Berlin) *(TBC)*
-- Alessandro Giacchetto (Zurich) *(TBC)*
+- Alessandro Giacchetto (Zurich)
 - François Greer (East Lansing)
 - Shuai Guo (Beijing)
 - Aitor Iribar López (Zurich)
