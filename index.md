@@ -83,4 +83,79 @@ Participants may attend either part or both parts of the workshop.
 
 ## Practical Information
 
+### Beijing
+
+#### Venue
+
+**Peking University, Beijing**  
+[Google Maps](https://www.google.com/maps/search/?api=1&query=Peking+University%2C+No.+5+Yiheyuan+Road%2C+Haidian+District%2C+Beijing)
+
+#### Hotel
+
+**ZHONGGUANYUAN GLOBAL VILLAGE, PKU**  
+北京市海淀区中关村北大街126号  
+NO.126, ZHONGGUANCUN NORTH STREET, HAIDIAN DISTRICT, BEIJING  
+[Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
+
+#### Transportation
+
+**Metro**  
+*(Approx. 15 minutes walk from station)*
+
+- **From Beijing Capital International Airport (PEK):**  
+  Take the Airport Express to **Sanyuanqiao Station**, transfer to **Line 10**, and then transfer to **Line 4** at **Haidian Huangzhuang**. Get off at **Peking University East Gate Station** (**Exit C**).
+
+- **From Beijing South Railway Station:**  
+  Take **Line 4** directly to **Peking University East Gate Station** (**Exit C**).
+
+**Taxi**
+
+- **From Beijing Capital International Airport (PEK):** Approx. **45–60 minutes** (**100–130 RMB**, depending on traffic).
+
+**Note for driver**
+
+司机师傅，您好。请送我去北京大学中关新园酒店（北京大学东南门的马路对面）。  
+*Hello, please take me to the Zhongguanyuan Global Village Hotel of Peking University. It is across the street from the Southeast Gate of Peking University.*
+
+---
+
+### Hangzhou
+
+#### Venue
+
+**Zhejiang University, Zijingang Campus**  
+[Google Maps](https://www.google.com/maps/search/?api=1&query=Zhejiang+University+Zijingang+Campus%2C+866+Yuhangtang+Road%2C+Hangzhou)
+
+#### Hotel
+
+**Shama Zijingang Hangzhou**  
+杭州紫金港莎瑪酒店  
+657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012  
+[Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
+
+#### Transportation
+
+**Metro**  
+*(Approx. 1 hour, around 8 RMB)*
+
+- **From Hangzhou Xiaoshan International Airport:**  
+  Take **Line 19** to **Shentangqiao Station**, then transfer to **Line 2** to **Sanba Station** (**Exit D**).
+
+- **From Hangzhou East Railway Station:**  
+  Take **Line 1** to **Datieguan Station**, then transfer to **Line 5** to **Sanba Station** (**Exit D**).
+
+**Taxi**
+
+- **From Hangzhou Xiaoshan International Airport:** Approx. **60 minutes** (**100–120 RMB**).
+- **From Hangzhou East Railway Station:** Approx. **35 minutes** (**40–60 RMB**).
+
+**Note for driver**
+
+司机你好，请带我去杭州莎玛紫金港酒店。  
+*Hello, please take me to Shama Zijingang Hangzhou.*
+
+---
+
+## Visa Information
+
 - For the visa waiver program of China, please consult this page: [https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202511/t20251110_11749824.html](https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202511/t20251110_11749824.html)
