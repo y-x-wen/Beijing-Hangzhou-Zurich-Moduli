@@ -100,22 +100,23 @@ NO.126, ZHONGGUANCUN NORTH STREET, HAIDIAN DISTRICT, BEIJING
 #### Transportation
 
 **Metro**  
-*(Approx. 15 minutes walk from station)*
+*(Approx. 60–80 minutes, ~30 RMB)*
 
 - **From Beijing Capital International Airport (PEK):**  
-  Take the Airport Express to **Sanyuanqiao Station**, transfer to **Line 10**, and then transfer to **Line 4** at **Haidian Huangzhuang**. Get off at **Peking University East Gate Station** (**Exit C**).
+  Take the **Airport Express** to **Sanyuanqiao Station**, transfer to **Line 10 (inner loop)** to **Haidian Huangzhuang Station**, then transfer to **Line 4 (towards Anheqiao North)** and get off at **Peking University East Gate Station (Exit C)**.
 
-- **From Beijing South Railway Station:**  
-  Take **Line 4** directly to **Peking University East Gate Station** (**Exit C**).
+- **From Beijing Daxing International Airport (PKX):**  
+  Take the **Daxing Airport Express** to **Caoqiao Station**, transfer to **Line 19** to **Mudanyuan Station**, then transfer to **Line 10 (outer loop)** to **Haidian Huangzhuang Station**, and finally transfer to **Line 4 (towards Anheqiao North)** to **Peking University East Gate Station (Exit C)**.
 
 **Taxi**
 
-- **From Beijing Capital International Airport (PEK):** Approx. **45–60 minutes** (**100–130 RMB**, depending on traffic).
+- **From Capital Airport (PEK):** Approx. **45–60 minutes** (**100–130 RMB**, depending on traffic).
+- **From Daxing Airport (PKX):** Approx. **60–80 minutes** (**200–250 RMB**, depending on traffic).
 
 **Note for driver**
 
-司机师傅，您好。请送我去北京大学中关新园酒店（北京大学东南门的马路对面）。  
-*Hello, please take me to the Zhongguanyuan Global Village Hotel of Peking University. It is across the street from the Southeast Gate of Peking University.*
+司机你好，请带我去北京大学中关新园（海淀区中关村北大街126号，北大东门对面）。  
+*Please take me to Zhongguanyuan Global Village, Peking University, No.126 Zhongguancun North Street, opposite the East Gate of Peking University.*
 
 ---
 
