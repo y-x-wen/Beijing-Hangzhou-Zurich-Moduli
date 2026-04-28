@@ -19,7 +19,7 @@ The workshop poster is available here:
 
 ## Speakers
 
-- Aaron Pixton (Ann Arbor)
+- Aaron Pixton (Ann Arbor) *(TBC)*
 - Younghan Bae (Ann Arbor)
 - Samir Canning (Zurich)
 - Gavril Farkas (Berlin) *(TBC)*
@@ -31,7 +31,7 @@ The workshop poster is available here:
 - Zhiyu Liu (Hangzhou)
 - Samouil Molcho (Rome)
 - Denis Nesterov (Zurich)
-- Dragos Oprea (San Diego) *(TBC)*
+- Dragos Oprea (San Diego) 
 - Junliang Shen (New Haven)
 - Yang Zhou (Shanghai)
   
@@ -92,9 +92,9 @@ Participants may attend either part or both parts of the workshop.
 
 #### Hotel
 
-**ZHONGGUANYUAN GLOBAL VILLAGE, PKU**  
+**Zhongguan Xinyuan Global Village PKU Beijing**  
 北京市海淀区中关村北大街126号  
-NO.126, ZHONGGUANCUN NORTH STREET, HAIDIAN DISTRICT, BEIJING  
+126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871 
 [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 
 #### Transportation
@@ -115,7 +115,7 @@ NO.126, ZHONGGUANCUN NORTH STREET, HAIDIAN DISTRICT, BEIJING
 
 **Note for driver**
 
-司机你好，请带我去北京大学中关新园（海淀区中关村北大街126号，北大东门对面）。  
+司机你好，请带我去北京大学中关新园。  
 *Please take me to Zhongguanyuan Global Village, Peking University, No.126 Zhongguancun North Street, opposite the East Gate of Peking University.*
 
 ---
@@ -130,7 +130,7 @@ NO.126, ZHONGGUANCUN NORTH STREET, HAIDIAN DISTRICT, BEIJING
 #### Hotel
 
 **Shama Zijingang Hangzhou**  
-杭州紫金港莎瑪酒店  
+杭州紫金港莎玛酒店  
 657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012  
 [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
 
