@@ -5,16 +5,18 @@ title: Beijing-Hangzhou-Zurich Moduli Workshop
 
 ## Overview
 
+<p class="lead">
 The Beijing–Hangzhou–Zurich Moduli Workshop is a focused international workshop
 bringing together researchers working on moduli spaces and related topics in
 algebraic geometry and mathematical physics.
+</p>
 
 
 ## Poster
 
-The workshop poster is available here:
-
-- Workshop Poster [(PDF)](assets/poster/BHZ-Moduli-Workshop-Poster.pdf)
+<div class="link-card">
+  Workshop Poster: <a href="assets/poster/BHZ-Moduli-Workshop-Poster.pdf" target="_blank">PDF</a>
+</div>
 
 
 <section class="speakers-schedule-section">
@@ -23,7 +25,7 @@ The workshop poster is available here:
     <h2>Speakers</h2>
 
     <ul>
-      <li>Aaron Pixton (Ann Arbor)</li>
+      <li>Aaron Pixton (Ann Arbor, <span class="speaker-note">online talk</span>)</li>
       <li>Younghan Bae (Ann Arbor)</li>
       <li>Yaolong Cao (Beijing)</li>
       <li>Samir Canning (Zurich)</li>
@@ -46,14 +48,14 @@ The workshop poster is available here:
     <h2>Schedule</h2>
 
     <iframe
-      src="assets/schedule/schedule.pdf"
+      src="assets/schedule/schedule.pdf#toolbar=0&navpanes=0&scrollbar=0"
       class="schedule-pdf"
       title="Workshop Schedule PDF">
     </iframe>
 
     <p class="schedule-download-link">
       <a href="assets/schedule/schedule.pdf" target="_blank">
-        Open schedule PDF in a new tab
+        Open schedule PDF
       </a>
     </p>
   </div>
@@ -63,17 +65,29 @@ The workshop poster is available here:
 
 ## Workshop Format and Locations
 
-The workshop will be held in **two consecutive parts**, hosted at two different locations in China:
+The workshop will be held in **two consecutive parts**, hosted at two different locations in China.
 
-- **Beijing (May 13–16, 2026)**  
-  Ding Shisun Lecture Hall, School of Mathematical Sciences, Peking University
-  [Amap](https://surl.amap.com/2w5ysfE1z4Pa)
+<div class="venue-grid">
 
-- **Hangzhou (May 18–19, 2026)**  
-  Lecture Hall 210, School of Mathematical Sciences, Zhejiang University (Zijinggang Campus)
-  [Amap](https://surl.amap.com/2vcyRS21cw4)
+  <div class="venue-card">
+    <h3>Beijing</h3>
+    <p><strong>May 13–16, 2026</strong></p>
+    <p>Ding Shisun Lecture Hall, School of Mathematical Sciences, Peking University</p>
+    <p><a href="https://surl.amap.com/2w5ysfE1z4Pa" target="_blank">Amap</a></p>
+  </div>
 
+  <div class="venue-card">
+    <h3>Hangzhou</h3>
+    <p><strong>May 18–19, 2026</strong></p>
+    <p>Lecture Hall 210, School of Mathematical Sciences, Zhejiang University, Zijingang Campus</p>
+    <p><a href="https://surl.amap.com/2vcyRS21cw4" target="_blank">Amap</a></p>
+  </div>
+
+</div>
+
+<p class="small-note">
 Participants may attend either part or both parts of the workshop.
+</p>
 
 
 ## Organizers
@@ -86,13 +100,16 @@ Participants may attend either part or both parts of the workshop.
 
 ## Practical Information
 
+<div class="city-section">
+
 ### Beijing
 
 #### Hotel
 
-**Zhongguanyuan Global Village, Peking University [Website](http://en.zhongguanyuanbj.cn)**  
-北京大学中关新园
-126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871 [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
+**Zhongguanyuan Global Village, Peking University**  
+北京大学中关新园  
+126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871  
+[Website](http://en.zhongguanyuanbj.cn) · [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 
 #### Transportation
 
@@ -110,20 +127,25 @@ Participants may attend either part or both parts of the workshop.
 - **From Capital Airport (PEK):** Approx. **45–60 minutes** (**100–130 RMB**, depending on traffic).
 - **From Daxing Airport (PKX):** Approx. **60–80 minutes** (**200–250 RMB**, depending on traffic).
 
-**Note for driver**
+<div class="driver-note">
+<p><strong>Note for driver</strong></p>
+<p>司机你好，请带我去北京大学中关新园。</p>
+<p><em>Please take me to Zhongguanyuan Global Village, Peking University, No.126 Zhongguancun North Street, opposite the East Gate of Peking University.</em></p>
+</div>
 
-司机你好，请带我去北京大学中关新园。  
-*Please take me to Zhongguanyuan Global Village, Peking University, No.126 Zhongguancun North Street, opposite the East Gate of Peking University.*
+</div>
 
----
+
+<div class="city-section">
 
 ### Hangzhou
 
 #### Hotel
 
-**Shama Zijingang Hangzhou [Website](https://www.shama.com/zijingang-hangzhou)**  
-杭州紫金港莎玛酒店 
-657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012 [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
+**Shama Zijingang Hangzhou**  
+杭州紫金港莎玛酒店  
+657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012  
+[Website](https://www.shama.com/zijingang-hangzhou) · [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
 
 #### Transportation
 
@@ -141,13 +163,20 @@ Participants may attend either part or both parts of the workshop.
 - **From Hangzhou Xiaoshan International Airport:** Approx. **60 minutes** (**100–120 RMB**).
 - **From Hangzhou East Railway Station:** Approx. **35 minutes** (**40–60 RMB**).
 
-**Note for driver**
+<div class="driver-note">
+<p><strong>Note for driver</strong></p>
+<p>司机你好，请带我去杭州莎玛紫金港酒店。</p>
+<p><em>Hello, please take me to Shama Zijingang Hangzhou.</em></p>
+</div>
 
-司机你好，请带我去杭州莎玛紫金港酒店。  
-*Hello, please take me to Shama Zijingang Hangzhou.*
+</div>
 
----
 
 ## Visa Information
 
-- For the visa waiver program of China, please consult this page: [https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202511/t20251110_11749824.html](https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202511/t20251110_11749824.html)
+<div class="link-card">
+  For the visa waiver program of China, please consult this page:
+  <a href="https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202511/t20251110_11749824.html" target="_blank">
+    Ministry of Foreign Affairs of China
+  </a>
+</div>
