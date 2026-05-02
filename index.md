@@ -12,21 +12,6 @@ on enumerative geometry, curve counting, logarithmic and derived techniques,
 and interactions with mathematical physics.
 </p>
 
-<div class="info-panel">
-  <div>
-    <span class="info-label">Dates</span>
-    <p>May 13–19, 2026</p>
-  </div>
-  <div>
-    <span class="info-label">Locations</span>
-    <p>Peking University and Zhejiang University</p>
-  </div>
-  <div>
-    <span class="info-label">Format</span>
-    <p>Two-part workshop in Beijing and Hangzhou</p>
-  </div>
-</div>
-
 
 <h2 id="poster">Poster</h2>
 
