@@ -17,6 +17,10 @@
       --max-width: 1120px;
     }
 
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       margin: 0;
       font-family: "Times New Roman", Georgia, serif;
@@ -47,6 +51,31 @@
       width: 100%;
       height: auto;
       display: block;
+    }
+
+    /* Navigation */
+    .site-nav {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(255, 255, 255, 0.96);
+      border-bottom: 1px solid var(--border);
+      padding: 0.75em 1.5em;
+      text-align: center;
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+    }
+
+    .site-nav a {
+      margin: 0 0.85em;
+      color: #333;
+      font-size: 0.95em;
+      letter-spacing: 0.02em;
+    }
+
+    .site-nav a:hover {
+      color: var(--accent);
+      text-decoration: none;
     }
 
     /* Main content */
@@ -97,7 +126,36 @@
     .lead {
       font-size: 1.08em;
       color: #333;
-      max-width: 820px;
+      max-width: 850px;
+    }
+
+    /* Info panel */
+    .info-panel {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1px;
+      border: 1px solid var(--border);
+      background: var(--border);
+      margin: 1.8em 0 2.4em;
+    }
+
+    .info-panel > div {
+      background: #fff;
+      padding: 1em 1.15em;
+    }
+
+    .info-label {
+      display: block;
+      font-size: 0.78em;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 0.35em;
+    }
+
+    .info-panel p {
+      margin: 0;
+      font-size: 1.02em;
     }
 
     /* Link cards */
@@ -130,7 +188,7 @@
       border: 1px solid var(--border);
       border-radius: 12px;
       padding: 1.25em 1.35em 1.35em;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.035);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.025);
     }
 
     .speakers-column h2,
@@ -141,6 +199,23 @@
 
     .speakers-column ul {
       margin-bottom: 0;
+      padding-left: 1.15em;
+    }
+
+    .affiliation {
+      color: var(--muted);
+    }
+
+    .tag {
+      display: inline-block;
+      margin-left: 0.35em;
+      padding: 0.05em 0.45em;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      font-size: 0.78em;
+      color: var(--accent);
+      background: var(--accent-soft);
+      white-space: nowrap;
     }
 
     .speaker-note {
@@ -216,7 +291,7 @@
       padding: 1.35em 1.45em;
       margin: 1.5em 0 2em;
       background: #fff;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.03);
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.025);
     }
 
     .city-section h3 {
@@ -275,6 +350,21 @@
 
       .content {
         padding: 2.3em 1.15em 3.5em;
+      }
+
+      .site-nav {
+        overflow-x: auto;
+        white-space: nowrap;
+        text-align: left;
+      }
+
+      .site-nav a {
+        margin-right: 1em;
+        margin-left: 0;
+      }
+
+      .info-panel {
+        grid-template-columns: 1fr;
       }
 
       .speakers-schedule-section {
@@ -378,6 +468,15 @@
     class="cover-image"
   />
 </div>
+
+<nav class="site-nav">
+  <a href="#overview">Overview</a>
+  <a href="#speakers">Speakers</a>
+  <a href="#schedule">Schedule</a>
+  <a href="#locations">Locations</a>
+  <a href="#organizers">Organizers</a>
+  <a href="#practical">Practical Info</a>
+</nav>
 
 <div class="content">
   {{ content }}
