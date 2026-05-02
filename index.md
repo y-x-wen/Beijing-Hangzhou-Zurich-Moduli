@@ -100,7 +100,7 @@ Participants may attend either part or both parts of the workshop.
 
 ## Practical Information
 
-<div class="city-section">
+<div class="city-section" markdown="1">
 
 ### Beijing
 
@@ -136,7 +136,7 @@ Participants may attend either part or both parts of the workshop.
 </div>
 
 
-<div class="city-section">
+<div class="city-section" markdown="1">
 
 ### Hangzhou
 
