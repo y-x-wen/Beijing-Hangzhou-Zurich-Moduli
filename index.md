@@ -47,11 +47,13 @@ algebraic geometry and mathematical physics.
   <div class="schedule-column">
     <h2>Schedule</h2>
 
-    <iframe
-      src="assets/schedule/schedule.pdf#toolbar=0&navpanes=0&scrollbar=0"
-      class="schedule-pdf"
-      title="Workshop Schedule PDF">
-    </iframe>
+    <div class="schedule-pdf-wrapper">
+      <iframe
+        src="assets/schedule/schedule.pdf#toolbar=0&navpanes=0&scrollbar=0"
+        class="schedule-pdf"
+        title="Workshop Schedule PDF">
+      </iframe>
+    </div>
 
     <p class="schedule-download-link">
       <a href="assets/schedule/schedule.pdf" target="_blank">
