@@ -44,9 +44,11 @@ The workshop will be held in **two consecutive parts**, hosted at two different 
 
 - **Beijing (May 13–16, 2026)**  
   Ding Shisun Lecture Hall, School of Mathematical Sciences, Peking University
+  [Amap](https://surl.amap.com/2w5ysfE1z4Pa)
 
 - **Hangzhou (May 18–19, 2026)**  
   Lecture Hall 210, School of Mathematical Sciences, Zhejiang University (Zijinggang Campus)
+  [Amap](https://surl.amap.com/2vcyRS21cw4)
 
 Participants may attend either part or both parts of the workshop.
 
@@ -75,7 +77,7 @@ Participants may attend either part or both parts of the workshop.
 
 #### Hotel
 
-**Zhongguanyuan Global Village PKU Beijing**  
+**Zhongguanyuan Global Village, Peking University**  
 北京市海淀区中关村北大街126号  
 126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871
 - Hotel Website [link](http://en.zhongguanyuanbj.cn)
