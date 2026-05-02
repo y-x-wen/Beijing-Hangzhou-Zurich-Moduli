@@ -19,15 +19,16 @@ The workshop poster is available here:
 
 ## Speakers
 
-- Aaron Pixton (Ann Arbor) *(TBC)*
+- Aaron Pixton (Ann Arbor)
 - Younghan Bae (Ann Arbor)
+- Yaolong Cao (Beijing)
 - Samir Canning (Zurich)
-- Gavril Farkas (Berlin) *(TBC)*
 - Alessandro Giacchetto (Zurich)
 - François Greer (East Lansing)
 - Shuai Guo (Beijing)
 - Aitor Iribar López (Zurich)
 - Zhiyuan Li (Shanghai)
+- Woonam Lim (Seoul)
 - Zhiyu Liu (Hangzhou)
 - Samouil Molcho (Rome)
 - Denis Nesterov (Zurich)
