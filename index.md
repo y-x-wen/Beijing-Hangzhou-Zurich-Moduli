@@ -17,25 +17,48 @@ The workshop poster is available here:
 - Workshop Poster [(PDF)](assets/poster/BHZ-Moduli-Workshop-Poster.pdf)
 
 
-## Speakers
+<section class="speakers-schedule-section">
 
-- Aaron Pixton (Ann Arbor)
-- Younghan Bae (Ann Arbor)
-- Yaolong Cao (Beijing)
-- Samir Canning (Zurich)
-- Alessandro Giacchetto (Zurich)
-- François Greer (East Lansing)
-- Shuai Guo (Beijing)
-- Aitor Iribar López (Zurich)
-- Zhiyuan Li (Shanghai)
-- Woonam Lim (Seoul)
-- Zhiyu Liu (Hangzhou)
-- Samouil Molcho (Rome)
-- Denis Nesterov (Zurich)
-- Dragos Oprea (San Diego) 
-- Junliang Shen (New Haven)
-- Yang Zhou (Shanghai)
+  <div class="speakers-column">
+    <h2>Speakers</h2>
 
+    <ul>
+      <li>Aaron Pixton (Ann Arbor)</li>
+      <li>Younghan Bae (Ann Arbor)</li>
+      <li>Yaolong Cao (Beijing)</li>
+      <li>Samir Canning (Zurich)</li>
+      <li>Alessandro Giacchetto (Zurich)</li>
+      <li>François Greer (East Lansing)</li>
+      <li>Shuai Guo (Beijing)</li>
+      <li>Aitor Iribar López (Zurich)</li>
+      <li>Zhiyuan Li (Shanghai)</li>
+      <li>Woonam Lim (Seoul)</li>
+      <li>Zhiyu Liu (Hangzhou)</li>
+      <li>Samouil Molcho (Rome)</li>
+      <li>Denis Nesterov (Zurich)</li>
+      <li>Dragos Oprea (San Diego)</li>
+      <li>Junliang Shen (New Haven)</li>
+      <li>Yang Zhou (Shanghai)</li>
+    </ul>
+  </div>
+
+  <div class="schedule-column">
+    <h2>Schedule</h2>
+
+    <iframe
+      src="assets/schedule/schedule.pdf"
+      class="schedule-pdf"
+      title="Workshop Schedule PDF">
+    </iframe>
+
+    <p class="schedule-download-link">
+      <a href="assets/schedule/schedule.pdf" target="_blank">
+        Open schedule PDF in a new tab
+      </a>
+    </p>
+  </div>
+
+</section>
 
 
 ## Workshop Format and Locations
@@ -51,11 +74,6 @@ The workshop will be held in **two consecutive parts**, hosted at two different 
   [Amap](https://surl.amap.com/2vcyRS21cw4)
 
 Participants may attend either part or both parts of the workshop.
-
-
-## Schedule
-
-- Schedule [PDF](assets/schedule/schedule.pdf)
 
 
 ## Organizers
