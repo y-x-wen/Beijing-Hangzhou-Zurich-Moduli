@@ -72,8 +72,8 @@ Participants may attend either part or both parts of the workshop.
 
 #### Hotel
 
-**Zhongguanyuan Global Village, Peking University**  
-[北京大学中关新园](http://en.zhongguanyuanbj.cn)
+**Zhongguanyuan Global Village, Peking University [Website]((http://en.zhongguanyuanbj.cn))**  
+北京大学中关新园
 126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871 [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 
 #### Transportation
@@ -103,8 +103,8 @@ Participants may attend either part or both parts of the workshop.
 
 #### Hotel
 
-**Shama Zijingang Hangzhou**  
-[杭州紫金港莎玛酒店](https://www.shama.com/zijingang-hangzhou) 
+**Shama Zijingang Hangzhou [Website](https://www.shama.com/zijingang-hangzhou)**  
+杭州紫金港莎玛酒店 
 657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012 [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
 
 #### Transportation
