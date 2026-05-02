@@ -35,8 +35,7 @@ The workshop poster is available here:
 - Dragos Oprea (San Diego) 
 - Junliang Shen (New Haven)
 - Yang Zhou (Shanghai)
-  
-(*TBC indicates to be confirmed*)
+
 
 
 ## Workshop Format and Locations
@@ -44,34 +43,17 @@ The workshop poster is available here:
 The workshop will be held in **two consecutive parts**, hosted at two different locations in China:
 
 - **Beijing (May 13–16, 2026)**  
-  Peking University, Beijing
+  Ding Shisun Lecture Hall, School of Mathematical Sciences, Peking University
 
 - **Hangzhou (May 18–19, 2026)**  
-  Zhejiang University, Hangzhou
+  Lecture Hall 210, School of Mathematical Sciences, Zhejiang University (Zijinggang Campus)
 
 Participants may attend either part or both parts of the workshop.
 
 
-### Beijing Program
+## Schedule
 
-| Time | Activity |
-|------|----------|
-|      | To be announced |
-|      | To be announced |
-|      | To be announced |
-
-
-### Hangzhou Program
-
-| Time | Activity |
-|------|----------|
-|      | To be announced |
-|      | To be announced |
-
-
-## Titles and Abstracts
-
-- To be added
+- Schedule [PDF](assets/schedule/schedule.pdf)
 
 
 ## Organizers
@@ -89,14 +71,15 @@ Participants may attend either part or both parts of the workshop.
 #### Venue
 
 **Peking University, Beijing**  
-[Google Maps](https://www.google.com/maps/search/?api=1&query=Peking+University%2C+No.+5+Yiheyuan+Road%2C+Haidian+District%2C+Beijing)
+- Peking University [Google Maps](https://www.google.com/maps/search/?api=1&query=Peking+University%2C+No.+5+Yiheyuan+Road%2C+Haidian+District%2C+Beijing)
 
 #### Hotel
 
-**Zhongguan Xinyuan Global Village PKU Beijing**  
+**Zhongguanyuan Global Village PKU Beijing**  
 北京市海淀区中关村北大街126号  
-126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871 
-[Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
+126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871
+- Hotel Website [link](http://en.zhongguanyuanbj.cn)
+- Map [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 
 #### Transportation
 
@@ -132,8 +115,9 @@ Participants may attend either part or both parts of the workshop.
 
 **Shama Zijingang Hangzhou**  
 杭州紫金港莎玛酒店  
-657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012  
-[Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
+657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012
+- Hotel Website [Link](https://www.shama.com/zijingang-hangzhou)
+- Map [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
 
 #### Transportation
 
