@@ -148,13 +148,22 @@
       font-size: 0.92em;
     }
 
-    .schedule-pdf {
+    /* Schedule PDF */
+    .schedule-pdf-wrapper {
       width: 100%;
-      height: 610px;
+      aspect-ratio: 1.414 / 1;
       border: 1px solid #cfcfcf;
       border-radius: 8px;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    .schedule-pdf {
+      width: 100%;
+      height: 100%;
+      border: none;
       display: block;
-      background: #f8f8f8;
+      background: #fff;
     }
 
     .schedule-download-link {
@@ -257,69 +266,90 @@
       white-space: nowrap;
     }
 
+    /* Tablet and mobile */
     @media (max-width: 900px) {
-  body {
-    font-size: 16px;
-  }
+      body {
+        font-size: 16px;
+      }
 
-  .content {
-    padding: 2.3em 1.15em 3.5em;
-  }
+      .content {
+        padding: 2.3em 1.15em 3.5em;
+      }
 
-  /* 手机竖屏默认：上下排列 */
-  .speakers-schedule-section {
-    grid-template-columns: 1fr;
-    gap: 24px;
-  }
+      .speakers-schedule-section {
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
 
-  .venue-grid {
-    grid-template-columns: 1fr;
-  }
+      .venue-grid {
+        grid-template-columns: 1fr;
+      }
 
-  .schedule-pdf {
-    height: 560px;
-  }
-}
+      /* 手机和平板窄屏不显示 PDF 预览 */
+      .schedule-pdf-wrapper {
+        display: none;
+      }
 
-@media (max-width: 768px) {
-  .cover-container {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
+      .schedule-download-link {
+        margin-top: 0;
+      }
 
-  .cover-image {
-    width: auto;
-    height: 88vh;
-    max-height: 88vh;
-  }
+      .schedule-download-link a {
+        width: 100%;
+        box-sizing: border-box;
+        text-align: center;
+        padding: 0.75em 1em;
+      }
+    }
 
-  h2 {
-    font-size: 1.45em;
-  }
-}
+    /* Mobile portrait: show the whole cover image */
+    @media (max-width: 768px) {
+      .cover-container {
+        overflow: hidden;
+        background: #000;
+      }
 
-/* 手机横屏：恢复左右分栏 */
-@media (max-width: 900px) and (orientation: landscape) {
-  .content {
-    max-width: 100%;
-    padding-left: 1.2em;
-    padding-right: 1.2em;
-  }
+      .cover-image {
+        width: 100%;
+        height: auto;
+        max-height: none;
+        display: block;
+      }
 
-  .speakers-schedule-section {
-    grid-template-columns: minmax(230px, 0.8fr) minmax(360px, 1.2fr);
-    gap: 24px;
-  }
+      h2 {
+        font-size: 1.45em;
+      }
+    }
 
-  .speakers-column,
-  .schedule-column {
-    padding: 1em 1.1em;
-  }
+    /* Mobile landscape: keep two-column layout, but no PDF preview */
+    @media (max-width: 900px) and (orientation: landscape) {
+      .content {
+        max-width: 100%;
+        padding-left: 1.2em;
+        padding-right: 1.2em;
+      }
 
-  .schedule-pdf {
-    height: 72vh;
-  }
-}
+      .speakers-schedule-section {
+        grid-template-columns: minmax(230px, 0.8fr) minmax(300px, 1.2fr);
+        gap: 24px;
+      }
+
+      .speakers-column,
+      .schedule-column {
+        padding: 1em 1.1em;
+      }
+
+      .cover-container {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .cover-image {
+        width: auto;
+        height: 100vh;
+        max-height: 100vh;
+      }
+    }
   </style>
 </head>
 
