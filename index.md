@@ -78,10 +78,9 @@ Participants may attend either part or both parts of the workshop.
 #### Hotel
 
 **Zhongguanyuan Global Village, Peking University**  
-北京市海淀区中关村北大街126号  
-126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871
+北京大学中关新园  
+126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871 [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 - Hotel Website [link](http://en.zhongguanyuanbj.cn)
-- Map [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 
 #### Transportation
 
@@ -117,9 +116,8 @@ Participants may attend either part or both parts of the workshop.
 
 **Shama Zijingang Hangzhou**  
 杭州紫金港莎玛酒店  
-657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012
+657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012 [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
 - Hotel Website [Link](https://www.shama.com/zijingang-hangzhou)
-- Map [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
 
 #### Transportation
 
