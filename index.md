@@ -3,16 +3,32 @@ layout: default
 title: Beijing-Hangzhou-Zurich Moduli Workshop
 ---
 
-## Overview
+<h2 id="overview">Overview</h2>
 
 <p class="lead">
 The Beijing–Hangzhou–Zurich Moduli Workshop is a focused international workshop
-bringing together researchers working on moduli spaces and related topics in
-algebraic geometry and mathematical physics.
+on moduli spaces in algebraic geometry and mathematical physics, with emphasis
+on enumerative geometry, curve counting, logarithmic and derived techniques,
+and interactions with mathematical physics.
 </p>
 
+<div class="info-panel">
+  <div>
+    <span class="info-label">Dates</span>
+    <p>May 13–19, 2026</p>
+  </div>
+  <div>
+    <span class="info-label">Locations</span>
+    <p>Peking University and Zhejiang University</p>
+  </div>
+  <div>
+    <span class="info-label">Format</span>
+    <p>Two-part workshop in Beijing and Hangzhou</p>
+  </div>
+</div>
 
-## Poster
+
+<h2 id="poster">Poster</h2>
 
 <div class="link-card">
   Workshop Poster: <a href="assets/poster/BHZ-Moduli-Workshop-Poster.pdf" target="_blank">PDF</a>
@@ -22,30 +38,30 @@ algebraic geometry and mathematical physics.
 <section class="speakers-schedule-section">
 
   <div class="speakers-column">
-    <h2>Speakers</h2>
+    <h2 id="speakers">Speakers</h2>
 
     <ul>
-      <li>Aaron Pixton (Ann Arbor, <span class="speaker-note">online talk</span>)</li>
-      <li>Younghan Bae (Ann Arbor)</li>
-      <li>Yaolong Cao (Beijing)</li>
-      <li>Samir Canning (Zurich)</li>
-      <li>Alessandro Giacchetto (Zurich)</li>
-      <li>François Greer (East Lansing)</li>
-      <li>Shuai Guo (Beijing)</li>
-      <li>Aitor Iribar López (Zurich)</li>
-      <li>Zhiyuan Li (Shanghai)</li>
-      <li>Woonam Lim (Seoul)</li>
-      <li>Zhiyu Liu (Hangzhou)</li>
-      <li>Samouil Molcho (Rome)</li>
-      <li>Denis Nesterov (Zurich)</li>
-      <li>Dragos Oprea (San Diego)</li>
-      <li>Junliang Shen (New Haven)</li>
-      <li>Yang Zhou (Shanghai)</li>
+      <li>Aaron Pixton <span class="affiliation">(Ann Arbor)</span> <span class="tag">Online talk</span></li>
+      <li>Younghan Bae <span class="affiliation">(Ann Arbor)</span></li>
+      <li>Yaolong Cao <span class="affiliation">(Beijing)</span></li>
+      <li>Samir Canning <span class="affiliation">(Zurich)</span></li>
+      <li>Alessandro Giacchetto <span class="affiliation">(Zurich)</span></li>
+      <li>François Greer <span class="affiliation">(East Lansing)</span></li>
+      <li>Shuai Guo <span class="affiliation">(Beijing)</span></li>
+      <li>Aitor Iribar López <span class="affiliation">(Zurich)</span></li>
+      <li>Zhiyuan Li <span class="affiliation">(Shanghai)</span></li>
+      <li>Woonam Lim <span class="affiliation">(Seoul)</span></li>
+      <li>Zhiyu Liu <span class="affiliation">(Hangzhou)</span></li>
+      <li>Samouil Molcho <span class="affiliation">(Rome)</span></li>
+      <li>Denis Nesterov <span class="affiliation">(Zurich)</span></li>
+      <li>Dragos Oprea <span class="affiliation">(San Diego)</span></li>
+      <li>Junliang Shen <span class="affiliation">(New Haven)</span></li>
+      <li>Yang Zhou <span class="affiliation">(Shanghai)</span></li>
     </ul>
   </div>
 
   <div class="schedule-column">
-    <h2>Schedule</h2>
+    <h2 id="schedule">Schedule</h2>
 
     <div class="schedule-pdf-wrapper">
       <iframe
@@ -65,7 +81,7 @@ algebraic geometry and mathematical physics.
 </section>
 
 
-## Workshop Format and Locations
+<h2 id="locations">Workshop Format and Locations</h2>
 
 The workshop will be held in **two consecutive parts**, hosted at two different locations in China.
 
@@ -92,7 +108,7 @@ Participants may attend either part or both parts of the workshop.
 </p>
 
 
-## Organizers
+<h2 id="organizers">Organizers</h2>
 
 - Rahul Pandharipande (Zurich)
 - Yongbin Ruan (Hangzhou)
@@ -100,7 +116,7 @@ Participants may attend either part or both parts of the workshop.
 - Qizheng Yin (Beijing)
 
 
-## Practical Information
+<h2 id="practical">Practical Information</h2>
 
 <div class="city-section" markdown="1">
 
@@ -174,7 +190,7 @@ Participants may attend either part or both parts of the workshop.
 </div>
 
 
-## Visa Information
+<h2 id="visa">Visa Information</h2>
 
 <div class="link-card">
   For the visa waiver program of China, please consult this page:
