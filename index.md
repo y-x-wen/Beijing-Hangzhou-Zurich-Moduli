@@ -72,15 +72,13 @@ Participants may attend either part or both parts of the workshop.
 
 #### Venue
 
-**Peking University, Beijing**  
-- Peking University [Google Maps](https://www.google.com/maps/search/?api=1&query=Peking+University%2C+No.+5+Yiheyuan+Road%2C+Haidian+District%2C+Beijing)
+**Peking University, Beijing [Google Maps](https://www.google.com/maps/search/?api=1&query=Peking+University%2C+No.+5+Yiheyuan+Road%2C+Haidian+District%2C+Beijing)**  
 
 #### Hotel
 
 **Zhongguanyuan Global Village, Peking University**  
-北京大学中关新园  
+北京大学中关新园 [Hotel Website](http://en.zhongguanyuanbj.cn)
 126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871 [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
-- Hotel Website [link](http://en.zhongguanyuanbj.cn)
 
 #### Transportation
 
@@ -109,15 +107,14 @@ Participants may attend either part or both parts of the workshop.
 
 #### Venue
 
-**Zhejiang University, Zijingang Campus**  
-[Google Maps](https://www.google.com/maps/search/?api=1&query=Zhejiang+University+Zijingang+Campus%2C+866+Yuhangtang+Road%2C+Hangzhou)
+**Zhejiang University, Zijingang Campus [Google Maps](https://www.google.com/maps/search/?api=1&query=Zhejiang+University+Zijingang+Campus%2C+866+Yuhangtang+Road%2C+Hangzhou)
+**  
 
 #### Hotel
 
 **Shama Zijingang Hangzhou**  
-杭州紫金港莎玛酒店  
+杭州紫金港莎玛酒店 [Hotel Website](https://www.shama.com/zijingang-hangzhou) 
 657 Gudun Road, Xihu District, Hangzhou, Zhejiang, China, 310012 [Google Maps](https://www.google.com/maps/search/?api=1&query=Shama+Zijingang+Hangzhou%2C+657+Gudun+Road%2C+Xihu+District%2C+Hangzhou%2C+Zhejiang%2C+China)
-- Hotel Website [Link](https://www.shama.com/zijingang-hangzhou)
 
 #### Transportation
 
