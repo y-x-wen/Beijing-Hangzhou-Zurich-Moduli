@@ -111,7 +111,7 @@ Participants may attend either one or both sessions of the workshop.
 
 **Zhongguanyuan Global Village, Peking University**  
 北京大学中关新园  
-126 Zhongguancun North Street, near Exit C of Peking University East Gate Station on Metro Line 4, Beijing, China, 100871  
+126 Zhongguancun North Street, near Exit C of Peking University East Gate Station, Metro Line 4, Beijing, China, 100871  
 [Website](http://en.zhongguanyuanbj.cn) · [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 
 #### Transportation
@@ -127,8 +127,8 @@ Participants may attend either one or both sessions of the workshop.
 
 **Taxi**
 
-- **From Capital Airport (PEK):** Approx. **45–60 minutes** (**100–130 RMB**, depending on traffic).
-- **From Daxing Airport (PKX):** Approx. **60–80 minutes** (**200–250 RMB**, depending on traffic).
+- **From Beijing Capital International Airport (PEK):** Approx. **45–60 minutes** (**100–130 RMB**, depending on traffic).
+- **From Beijing Daxing International Airport (PKX):** Approx. **60–80 minutes** (**200–250 RMB**, depending on traffic).
 
 <div class="driver-note">
 <p><strong>Note for driver</strong></p>
