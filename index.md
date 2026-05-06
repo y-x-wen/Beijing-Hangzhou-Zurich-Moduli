@@ -28,7 +28,7 @@ and interactions with mathematical physics.
     <ul>
       <li>Aaron Pixton <span class="affiliation">(Ann Arbor)</span> <span class="tag">Online talk</span></li>
       <li>Younghan Bae <span class="affiliation">(Ann Arbor)</span></li>
-      <li>Yaolong Cao <span class="affiliation">(Beijing)</span></li>
+      <li>Yalong Cao <span class="affiliation">(Beijing)</span></li>
       <li>Samir Canning <span class="affiliation">(Zurich)</span></li>
       <li>Alessandro Giacchetto <span class="affiliation">(Zurich)</span></li>
       <li>François Greer <span class="affiliation">(East Lansing)</span></li>
