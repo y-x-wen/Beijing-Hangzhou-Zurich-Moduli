@@ -66,7 +66,7 @@ and interactions with mathematical physics.
 </section>
 
 
-<h2 id="locations">Workshop Format and Locations</h2>
+<h2 id="locations">Format and Locations</h2>
 
 The workshop will be held in **two consecutive parts**, hosted at two different locations in China.
 
@@ -111,7 +111,7 @@ Participants may attend either part or both parts of the workshop.
 
 **Zhongguanyuan Global Village, Peking University**  
 北京大学中关新园  
-126 Zhongguancun North Street, near entrance C of Peking University East Gate Station of Metro 4, Beijing, China, 100871  
+126 Zhongguancun North Street, near Exit C of Peking University East Gate Station on Metro Line 4, Beijing, China, 100871  
 [Website](http://en.zhongguanyuanbj.cn) · [Google Maps](https://www.google.com/maps/search/?api=1&query=ZHONGGUANYUAN+GLOBAL+VILLAGE%2C+PKU%2C+No.126+Zhongguancun+North+Street%2C+Haidian+District%2C+Beijing)
 
 #### Transportation
@@ -169,7 +169,7 @@ Participants may attend either part or both parts of the workshop.
 <div class="driver-note">
 <p><strong>Note for driver</strong></p>
 <p>司机你好，请带我去杭州莎玛紫金港酒店。</p>
-<p><em>Hello, please take me to Shama Zijingang Hangzhou.</em></p>
+<p><em>Please take me to Shama Zijingang Hangzhou.</em></p>
 </div>
 
 </div>
