@@ -133,7 +133,7 @@ Participants may attend either part or both parts of the workshop.
 <div class="driver-note">
 <p><strong>Note for driver</strong></p>
 <p>司机你好，请带我去北京大学中关新园。</p>
-<p><em>Please take me to Zhongguanyuan Global Village, Peking University, No.126 Zhongguancun North Street, opposite the East Gate of Peking University.</em></p>
+<p><em>Please take me to Zhongguanyuan Global Village, Peking University.</em></p>
 </div>
 
 </div>
