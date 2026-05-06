@@ -89,7 +89,7 @@ The workshop will be held in **two consecutive sessions**, hosted at two differe
 </div>
 
 <p class="small-note">
-Participants may attend either session or both sessions of the workshop.
+Participants may attend either one or both sessions of the workshop.
 </p>
 
 
