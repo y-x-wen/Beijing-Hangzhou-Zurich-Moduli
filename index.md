@@ -26,7 +26,7 @@ and interactions with mathematical physics.
     <h2 id="speakers">Speakers</h2>
 
     <ul>
-      <li>Aaron Pixton <span class="affiliation">(Ann Arbor)</span> <span class="tag">Online Talk</span></li>
+      <li>Aaron Pixton <span class="affiliation">(Ann Arbor)</span> <span class="tag">Online talk</span></li>
       <li>Younghan Bae <span class="affiliation">(Ann Arbor)</span></li>
       <li>Yalong Cao <span class="affiliation">(Beijing)</span></li>
       <li>Samir Canning <span class="affiliation">(Zurich)</span></li>
