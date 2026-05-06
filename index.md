@@ -26,7 +26,7 @@ and interactions with mathematical physics.
     <h2 id="speakers">Speakers</h2>
 
     <ul>
-      <li>Aaron Pixton <span class="affiliation">(Ann Arbor)</span> <span class="tag">Online talk</span></li>
+      <li>Aaron Pixton <span class="affiliation">(Ann Arbor)</span> <span class="tag">Online Talk</span></li>
       <li>Younghan Bae <span class="affiliation">(Ann Arbor)</span></li>
       <li>Yalong Cao <span class="affiliation">(Beijing)</span></li>
       <li>Samir Canning <span class="affiliation">(Zurich)</span></li>
@@ -68,7 +68,7 @@ and interactions with mathematical physics.
 
 <h2 id="locations">Format and Locations</h2>
 
-The workshop will be held in **two consecutive parts**, hosted at two different locations in China.
+The workshop will be held in **two consecutive sessions**, hosted at two different locations in China.
 
 <div class="venue-grid">
 
@@ -89,7 +89,7 @@ The workshop will be held in **two consecutive parts**, hosted at two different 
 </div>
 
 <p class="small-note">
-Participants may attend either part or both parts of the workshop.
+Participants may attend either part or both sessions of the workshop.
 </p>
 
 
@@ -105,9 +105,9 @@ Participants may attend either part or both parts of the workshop.
 
 <div class="city-section" markdown="1">
 
-### Beijing
+### Beijing Session
 
-#### Hotel
+#### Accommodation
 
 **Zhongguanyuan Global Village, Peking University**  
 北京大学中关新园  
@@ -141,9 +141,9 @@ Participants may attend either part or both parts of the workshop.
 
 <div class="city-section" markdown="1">
 
-### Hangzhou
+### Hangzhou Session
 
-#### Hotel
+#### Accommodation
 
 **Shama Zijingang Hangzhou**  
 杭州紫金港莎玛酒店  
