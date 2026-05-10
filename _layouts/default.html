@@ -218,38 +218,54 @@
       white-space: nowrap;
     }
 
-    .speaker-note {
-      color: var(--muted);
-      font-size: 0.92em;
-    }
-
-    /* Schedule PDF preview */
+    /* Schedule / Program PDF preview */
     .schedule-pdf-wrapper {
       width: 100%;
-      height: 420px;
+      height: 540px;
       border: 1px solid #cfcfcf;
       border-radius: 8px;
-      overflow: hidden;
+      overflow-y: auto;
+      overflow-x: hidden;
       background: #fff;
       box-sizing: border-box;
+      padding: 1em;
+    }
+
+    .pdf-panel {
+      height: 455px;
+      margin-bottom: 1.35em;
+    }
+
+    .pdf-panel:last-child {
+      margin-bottom: 0;
+    }
+
+    .pdf-panel-title {
+      margin: 0 0 0.5em 0;
+      font-size: 0.95em;
+      font-weight: 700;
+      color: var(--muted);
     }
 
     .schedule-pdf {
       width: 100%;
-      height: 100%;
-      border: none;
+      height: calc(100% - 2em);
+      border: 1px solid #ddd;
+      border-radius: 6px;
       display: block;
       background: #fff;
     }
 
-    .schedule-download-link {
-      margin-top: 0.75em;
-      font-size: 0.95em;
+    .schedule-links {
+      display: flex;
+      gap: 0.8em;
+      flex-wrap: wrap;
+      margin-top: 0.85em;
     }
 
-    .schedule-download-link a {
+    .schedule-links a {
       display: inline-block;
-      padding: 0.45em 0.75em;
+      padding: 0.5em 0.8em;
       border-radius: 6px;
       border: 1px solid var(--border);
       background: var(--soft-bg);
@@ -378,19 +394,20 @@
 
       .schedule-pdf-wrapper {
         display: block;
-        height: 320px;
+        height: 390px;
+        padding: 0.75em;
       }
 
-      .schedule-pdf {
-        width: 100%;
-        height: 100%;
+      .pdf-panel {
+        height: 340px;
       }
 
-      .schedule-download-link {
-        margin-top: 0.75em;
+      .schedule-links {
+        flex-direction: column;
+        gap: 0.65em;
       }
 
-      .schedule-download-link a {
+      .schedule-links a {
         width: 100%;
         box-sizing: border-box;
         text-align: center;
@@ -417,11 +434,15 @@
       }
 
       .schedule-pdf-wrapper {
-        height: 300px;
+        height: 360px;
+      }
+
+      .pdf-panel {
+        height: 315px;
       }
     }
 
-    /* Mobile landscape: keep two-column layout and show PDF preview */
+    /* Mobile landscape: keep two-column layout and show PDF previews */
     @media (max-width: 900px) and (orientation: landscape) {
       .content {
         max-width: 100%;
@@ -441,7 +462,11 @@
 
       .schedule-pdf-wrapper {
         display: block;
-        height: 260px;
+        height: 315px;
+      }
+
+      .pdf-panel {
+        height: 270px;
       }
 
       .cover-container {
