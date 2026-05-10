@@ -61,6 +61,12 @@ and interactions with mathematical physics.
         Open schedule PDF
       </a>
     </p>
+
+    <p class="schedule-download-link">
+      <a href="assets/schedule/program.pdf" target="_blank">
+        Open program and abstracts
+      </a>
+    </p>
   </div>
 
 </section>
@@ -178,7 +184,7 @@ Participants may attend either one or both sessions of the workshop.
 <h2 id="visa">Visa Information</h2>
 
 <div class="link-card">
-  For the visa waiver program of China, please consult this page:
+  For information on China’s visa waiver program, please consult this page:
   <a href="https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202511/t20251110_11749824.html" target="_blank">
     Ministry of Foreign Affairs of China
   </a>
