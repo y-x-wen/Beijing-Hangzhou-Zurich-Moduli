@@ -49,24 +49,34 @@ and interactions with mathematical physics.
     <h2 id="schedule">Schedule</h2>
 
     <div class="schedule-pdf-wrapper">
-      <iframe
-        src="assets/schedule/schedule.pdf#toolbar=0&navpanes=0&scrollbar=0"
-        class="schedule-pdf"
-        title="Workshop Schedule PDF">
-      </iframe>
+      <div class="pdf-panel">
+        <p class="pdf-panel-title">Schedule</p>
+        <iframe
+          src="assets/schedule/schedule.pdf#toolbar=0&navpanes=0&scrollbar=0"
+          class="schedule-pdf"
+          title="Workshop Schedule PDF">
+        </iframe>
+      </div>
+
+      <div class="pdf-panel">
+        <p class="pdf-panel-title">Program</p>
+        <iframe
+          src="assets/schedule/program.pdf#toolbar=0&navpanes=0&scrollbar=0"
+          class="schedule-pdf"
+          title="Workshop Program PDF">
+        </iframe>
+      </div>
     </div>
 
-    <p class="schedule-download-link">
+    <div class="schedule-links">
       <a href="assets/schedule/schedule.pdf" target="_blank">
         Open schedule PDF
       </a>
-    </p>
 
-    <p class="schedule-download-link">
       <a href="assets/schedule/program.pdf" target="_blank">
-        Open program and abstracts
+        Open program PDF
       </a>
-    </p>
+    </div>
   </div>
 
 </section>
